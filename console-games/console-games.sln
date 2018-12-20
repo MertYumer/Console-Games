@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong", "PingPong\PingPong.csproj", "{7AFF8121-0509-4760-86C8-B2B15487E4EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficRacer", "TrafficRacer\TrafficRacer.csproj", "{7836AD28-0825-4CB6-8801-99EC9CDC6D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AFF8121-0509-4760-86C8-B2B15487E4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFF8121-0509-4760-86C8-B2B15487E4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFF8121-0509-4760-86C8-B2B15487E4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFF8121-0509-4760-86C8-B2B15487E4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7836AD28-0825-4CB6-8801-99EC9CDC6D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7836AD28-0825-4CB6-8801-99EC9CDC6D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7836AD28-0825-4CB6-8801-99EC9CDC6D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7836AD28-0825-4CB6-8801-99EC9CDC6D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77DD1E4F-EB47-4390-955C-CC6A88082C30}
+	EndGlobalSection
+EndGlobal

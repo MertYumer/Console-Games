@@ -1,0 +1,11 @@
+D:\Projects\Console Games\console-games\TrafficRacer\bin\Debug\netcoreapp2.1\TrafficRacer.deps.json
+D:\Projects\Console Games\console-games\TrafficRacer\bin\Debug\netcoreapp2.1\TrafficRacer.runtimeconfig.json
+D:\Projects\Console Games\console-games\TrafficRacer\bin\Debug\netcoreapp2.1\TrafficRacer.runtimeconfig.dev.json
+D:\Projects\Console Games\console-games\TrafficRacer\bin\Debug\netcoreapp2.1\TrafficRacer.dll
+D:\Projects\Console Games\console-games\TrafficRacer\bin\Debug\netcoreapp2.1\TrafficRacer.pdb
+D:\Projects\Console Games\console-games\TrafficRacer\obj\Debug\netcoreapp2.1\TrafficRacer.csprojAssemblyReference.cache
+D:\Projects\Console Games\console-games\TrafficRacer\obj\Debug\netcoreapp2.1\TrafficRacer.csproj.CoreCompileInputs.cache
+D:\Projects\Console Games\console-games\TrafficRacer\obj\Debug\netcoreapp2.1\TrafficRacer.AssemblyInfoInputs.cache
+D:\Projects\Console Games\console-games\TrafficRacer\obj\Debug\netcoreapp2.1\TrafficRacer.AssemblyInfo.cs
+D:\Projects\Console Games\console-games\TrafficRacer\obj\Debug\netcoreapp2.1\TrafficRacer.dll
+D:\Projects\Console Games\console-games\TrafficRacer\obj\Debug\netcoreapp2.1\TrafficRacer.pdb
